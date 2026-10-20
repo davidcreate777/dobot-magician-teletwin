@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Visual Studio & C++ Build Artifacts (from demo SDK)
+*.sdf
+*.opensdf
+*.pch
+*.ipch
+*.ilk
+*.pdb
+*.idb
+*.exp
+*.tlog
+*.obj
+*.res
+*.log
+*.suo
+*.user
+*.useros_guid
+*.VC.db
+ipch/
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Android Studio & Gradle Build Artifacts (from demo SDK)
+.gradle/
+build/
+*/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Archives inside SDK (keep vendor repo lean if needed)
+*.zip
+*.tar.gz
+*.rar
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
